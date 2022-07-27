@@ -1,0 +1,20 @@
+.filter {
+    filter: brightness(60%);
+    height: 70%;
+    object-fit: cover;
+}
+
+@media (max-width: 575.98px) {
+    p {
+        font-weight: 50;
+        font-size: xx-small;
+
+    }
+
+    .bla {
+        font-weight: 300;
+        font-size: larger;
+
+    }
+
+}
